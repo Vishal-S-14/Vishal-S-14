@@ -42,7 +42,8 @@ I'm driven by a deep interest in applied cryptography, secure software developme
 
 ## 🏆 Achievements
 
-- 🏆 **4th Place** – Tredence AI Hackathon
+- 🏆 **4th Place** – Tredence AI Hackathon 2025
+- 🏅 **Participant** – AIC RAISE Hackathon 2025
 - 🏅 **Participant** – VishwaCTF'24
 - 🏅 **Participant** – Bi0S CTF'23
 
